@@ -33,7 +33,7 @@ public class JavaApplication5 {
             break;
         case 5: System.out.println("Hoje é Sexta");
             break;
-        case 6: System.out.println("Hoje é Sabadooooooooooooooooooooooooooooooooooooooooo");
+        case 6: System.out.println("Hoje é Sabado");
             break;
        }
     }
